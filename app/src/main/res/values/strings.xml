@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chronometer</string>
+    <string name="text_title_main">Healthy On You</string>
+    <string name="button_getstarted">Get Started</string>
+    <string name="text_sub_title_main">Key of the happiness is not a \nlife for money</string>
+    <string name="button_start">Start Now</string>
+    <string name="button_stop">Finish Workout</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Continue</string>
+</resources>
